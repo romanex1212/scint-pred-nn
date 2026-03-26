@@ -1,4 +1,12 @@
+### Predicting High-Latitude GNSS Ionospheric Phase Scintillation using Multivariate Time Series Neural Network Models with Space Weather Indicators
+
+#### Code and Reproducibility Instructions
+
+
 \
+![gradient_visualizer](gradient_visualizer.png)
+*Multivariate Time Series with Neural Network Gradient Visualizer*
+
 \
 This is an instructional overview of how to use the code provided to
 reproduce the results of the paper.\
