@@ -4,8 +4,20 @@
 
 
 \
-![gradient_visualizer](gradient_visualizer.png)
+![gradient_visualizer](fig_gradient_visualizer.png)
 *Multivariate Time Series with Neural Network Gradient Visualizer*
+
+\
+![architecture_diagrams](fig_architecture_diagrams.png)
+*Neural Network Architectures Used*
+
+\
+![flow_diagram](fig_flow_diagram.png)
+*Hyperparameter Tuning Strategy Flow Diagram*
+
+\
+![curves](fig_curves.png)
+*Example Training and Validation Curves*
 
 \
 This is an instructional overview of how to use the code provided to
